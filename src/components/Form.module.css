@@ -1,0 +1,19 @@
+.input {
+  width: 20%;
+  height: 30px;
+  font-size: 0.9rem;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  margin: 10px auto;
+  display: block;
+}
+
+.button {
+  height: 40px;
+  cursor: pointer;
+  background-color: beige;
+  font-size: 1.2rem;
+  display: block;
+  margin: 30px auto;
+}
